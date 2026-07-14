@@ -53,7 +53,7 @@
 
 ## 📚 Coding Profiles
 
-- 💛 **LeetCode:** 281+ Problems Solved
+- 💛 **LeetCode:** 300+ Problems Solved
   - Username: **Puneet-01**
 
 - 💙 **HackerRank**
