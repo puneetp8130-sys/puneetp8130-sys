@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/puneet-kumar-ab1673325">
     <img src="https://img.shields.io/badge/LinkedIn-Puneet%20Kumar-0A66C2?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:[puneetp8130@gmail.com](mailto:puneetp8130@gmail.com)">
+  <a href="mailto:puneetp8130@gmail.com">
     <img src="https://img.shields.io/badge/Email-puneetp8130%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -38,19 +38,28 @@
 
 ### Languages
 
-
-
-\
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</p>
 
 ### Frontend
 
-
-\
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+</p>
 
 ### Tools
 
-
-\
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+</p>
 
 ---
 
@@ -109,13 +118,19 @@ I regularly practice **Data Structures & Algorithms** using C++, including:
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=puneetp8130-sys&show_icons=true&hide_border=true" alt="Puneet's GitHub Stats">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=puneetp8130-sys&theme=github_dark" alt="Puneet's GitHub Profile">
 
-<br>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneetp8130-sys&layout=compact&hide_border=true" alt="Top Languages">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=puneetp8130-sys&theme=github_dark" alt="Puneet's GitHub Stats">
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=puneetp8130-sys&theme=github_dark" alt="Puneet's Repository Languages">
 
 </div>
 
